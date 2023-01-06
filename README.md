@@ -6,7 +6,7 @@ This is a code from the corresponding [**video tutorial**](https://youtu.be/Wn_K
 
 ## How to deploy smart contract
 
-Update ***networks url with API key and account private keys*** in file ./smart_contract/hardhat.config.js
+Update ***[alchemy](https://www.alchemy.com/) networks url with API key and account private keys*** in file ./smart_contract/hardhat.config.js
 
 ```bash
 npm install -g pnpm
